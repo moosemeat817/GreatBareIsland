@@ -1,2 +1,2 @@
 # GreatBareIsland
-Removes or replaces most generic houses, cabins and trailers on Great Bear Island.
+An alternate version of Great Bear Island that removes most cabins, trailers and houses or replaces them with ruins.
