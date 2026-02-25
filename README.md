@@ -6,7 +6,7 @@
 ##
 An alternate version of Great Bear Island that removes most cabins, trailers and houses or replaces them with ruins.
 
-- The houses on Jackrabbit and Misanthropes Islands in Coastal Highway have not been removed.
+- The Jackrabbit and Misanthropes houses in Coastal Highway have not been removed.
 - The basement only houses have not been removed.
 - No changes have been made to Ash Canyon.
 - No changes have been made to TFTTFTTFTFTFT.
