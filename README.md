@@ -1,6 +1,8 @@
 # Great Bare Island
 An alternate version of Great Bear Island that removes most cabins, trailers and houses or replaces them with ruins.
 
+⚠️ IMPORTANT: This mod is intended to be enabled prior to starting a new game.  If the mod is enabled and you load a game that wasn't started with it, you should be able to just quit the game, disabled the mod and then reload the game and everything will go back to how it always was in that game.  I cannot gaurantee there will be no issues in a situation such as this, but have never had any problems in all my testing. ⚠️
+
 
 <img src="https://github.com/moosemeat817/ModListJson/blob/main/GreatBareIsland.jpg" width="80%">
 
